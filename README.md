@@ -93,27 +93,38 @@ This folder contains JavaScript practice tasks.
 
 ---
 
-## 06_angular
+## 05_exercism  
+This folder contains JavaScript practice code based on Exercism exercises.
 
-### Web CLI
-
-This task is a small **Angular project** that works like an **Angular CLI terminal in browser**.  
-User can type commands and see CLI-like output step by step.  
-Angular **Signals** are used for state and UI control.  
-This task helps to understand signals, component logic, and event handling.
-
-### Profile Card
-The Profile Card project demonstrates core Angular concepts like component-based design and data binding.  
-It covers parent–child communication, lifecycle hooks, and UI state handling.  
-Version-wise implementation shows the evolution from module-based Angular to standalone components and signals.  
-This project helps build a strong foundation in Angular component architecture.
-
-### Shopping Cart
-The Shopping Cart project focuses on real-world state management and user interaction logic.  
-It implements cart operations such as add, remove, and quantity updates using services and signals.  
-Different Angular versions highlight the shift from traditional services to reactive signal-based state.  
-This project is useful for understanding scalable Angular application design.
-
-### Interceptor
+- **01_javascript**:  
+  Includes complete JavaScript learning exercises from Exercism.  
+  Covers basic to advanced concepts such as variables, functions, arrays, objects, loops, conditionals, and problem-solving practice.
 
 ---
+
+## 06_angular
+
+This folder contains small Angular projects built to understand core concepts, state management, and real-world application structure.  
+Each project demonstrates Angular features across different versions (v16 → v21).
+
+---
+
+### Web CLI  
+A browser-based Angular CLI simulation.  
+Focuses on Signals, component logic, and event handling.
+
+### Profile Card  
+Demonstrates component-based architecture and data binding.  
+Covers parent–child communication and UI state handling.
+
+### Shopping Cart  
+Implements real-world cart operations like add, remove, and quantity update.  
+Focuses on state management using services and signals.
+
+### Interceptor (Auth Setup)  
+Implements authentication flow with token handling and HTTP interceptors.  
+Demonstrates secure API communication and scalable architecture.
+
+---
+
+> Each project has its own inner `README.md` file for detailed explanation.
