@@ -47,7 +47,7 @@ Training/
 │   │   ├── version_21
 │   │   │   └── README.md
 │   │   └── README.md
-│   └── README.md //pending
+│   └── README.md
 └── README.md
 ```
 
